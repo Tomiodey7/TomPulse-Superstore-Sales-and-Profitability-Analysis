@@ -2,7 +2,7 @@
 
 > **Tools:** Microsoft Excel (Pivot Tables, Charts, Dashboard)  
 > **Type:** Exploratory Data Analysis + Dashboard Design  
-> **Dataset:** Fictional superstore sales data — 2014 fiscal year  
+> **Dataset:** TomPulse superstore sales data — 2014 fiscal year  
 
 ## Project Overview
 This project analyses 2014 sales data for TomPulse Superstore to help 
@@ -39,7 +39,7 @@ customer revenue, and shipping city analysis.
 - Prioritise New York, Portland, and Miami in logistics and marketing planning
 
 ## Dashboard Preview
-![TomPulse Dashboard](./TomPulse_Superstore_Dashboard.png)
+![TomPulse Dashboard](./TomPulse Superstore Dashboard.png)
 
 ## About
 Built by **Oluwatomisin Odeyale** — Chemistry graduate transitioning into 
