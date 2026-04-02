@@ -42,6 +42,5 @@ customer revenue, and shipping city analysis.
 ![TomPulse Dashboard](./TomPulse-Superstore-Dashboard.png)
 
 ## About
-Built by **Oluwatomisin Odeyale** — Chemistry graduate transitioning into 
-data analytics. Currently training at Vephla University.  
+Built by **Oluwatomisin Odeyale**  
 Connect on [LinkedIn](https://www.linkedin.com/in/oluwatomisin-odeyale-54631a2a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
